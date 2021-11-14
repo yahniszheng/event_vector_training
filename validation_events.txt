@@ -1,0 +1,200 @@
+<microsoft>	<increase>	<profit>
+<apple>	<win>	<patent_protection>
+<google>	<earn>	<credit>
+<steve_jobs>	<create>	<apple>
+<bill_gates>	<make>	<microsoft>
+<elon_musk>	<start>	<spacex>
+<donald_trump>	<become>	<president>
+<rally>	<advance>	<hong kong>
+<good idea>	<invest>	<nike>
+<netflix>	<engage>	<development opportunity>
+<apple>	<pay>	<billion tax>
+<bitcoin>	<shock>	<global market>
+<americans>	<save>	<vehicle price>
+<donald_trump>	<indicate>	<congress>
+<nvidia>	<produce>	<gpu>
+<wall street>	<sign>	<contract>
+<gold future>	<rise>	<oil price>
+<yuan>	<continue>	<weaken>
+<committee>	<point>	<concern>
+<ankara>	<introduce>	<policy>
+<time>	<add>	<return>
+<facebook>	<scramble>	<communication>
+<german automaker>	<explore>	<area>
+<oil price>	<drag>	<energy share>
+<market>	<advance>	<stock>
+<market>	<remain>	<trade deal>
+<smartphone company>	<break>	<law>
+<shareholder>	<feel>	<uncertainty>
+<apple>	<outperform>	<analyst>
+<people>	<arrest>	<protest>
+<china>	<accuse>	<america>
+<service provider>	<generate>	<revenue>
+<huntington bancshares>	<schedule>	<report quarter>
+<company>	<enter>	<tencent>
+<asia>	<suffer>	<pandemic>
+<japan>	<move>	<narrow range>
+<motor share>	<rise>	<united state>
+<wall street>	<react>	<report>
+<trend company>	<deliver>	<earnings>
+<demand greenback>	<weaken>	<half>
+<london>	<trade>	<crude_oil>
+<dow industrial>	<snap>	<streak>
+<major market>	<explore>	<europe>
+<worst time>	<buy>	<stock>
+<terror attack>	<kill>	<citizen>
+<mastercard>	<amid>	<drop>
+<strength trend>	<abate>	<stock trend>
+<currency market>	<stabilize>	<today>
+<democratic party>	<answer>	<media>
+<company>	<justify>	<valuation>
+<debt>	<win>	<battle>
+<vmware>	<launch>	<restructure plan>
+<breakout>	<break>	<resistance>
+<employee>	<feel>	<insecure>
+<investor>	<lose>	<position>
+<alphabet>	<own>	<google>
+<forecast>	<appear>	<negative>
+<machinery industry>	<boost>	<economy>
+<culp>	<invest>	<ep>
+<hedge_fund>	<join>	<battle>
+<facebook>	<respond>	<scandal>
+<economist>	<conclude>	<increase>
+<market participant>	<scale>	<expectation>
+<japan>	<refute>	<tax cut>
+<acquisition>	<help>	<growth>
+<court>	<investigate>	<politician>
+<3m>	<continue>	<acquisition>
+<toyota>	<surge>	<advance>
+<technology>	<slump>	<raise concern>
+<honda>	<keep>	<good time>
+<global market>	<crash>	<tomorrow>
+<trump>	<urge>	<china>
+<expert>	<improve>	<international demand>
+<global equity>	<rise>	<percent>
+<disney>	<disappoint>	<income>
+<australia>	<fall>	<gdp>
+<threat>	<track>	<user>
+<inflation>	<refrain>	<business_development>
+<executive>	<discuss>	<conference>
+<power>	<dominate>	<wall street>
+<healthcare improvement>	<benefit>	<worker>
+<business>	<double>	<debt level>
+<scientist>	<confirm>	<discovery>
+<food>	<face>	<threat>
+<british lawmaker>	<vote>	<today>
+<china>	<decline>	<trade union>
+<violent protest>	<grip>	<greece>
+<analyst>	<estimate>	<negative_outlook>
+<hitachi>	<gain>	<support>
+<microsoft>	<move>	<second place>
+<woolworth>	<offer>	<discount product>
+<bad news>	<correlate>	<gold_price>
+<htc>	<become>	<oracle>
+<africa>	<raise>	<concern>
+<tech giant>	<report>	<loss>
+<company>	<involve>	<scandal>
+<government>	<accept>	<crypto>
+<stock valuation>	<lift>	<europe>
+<manufacturer>	<follow>	<policymaker>
+<committee>	<express>	<concern>
+<french government>	<impose>	<hour work>
+<tesla>	<collaborate>	<autonomous vehicle>
+<turkey>	<infect>	<argentina>
+<amazon>	<announce>	<deal>
+<bitcoin>	<skyrocket>	<cryptocurrency>
+<indonesia>	<argue>	<company>
+<dollar stock>	<rise>	<australia>
+<ibm>	<gain>	<trust>
+<spain>	<hit>	<market>
+<europe>	<await>	<parliament vote>
+<asia>	<recover>	<economy>
+<central bank>	<proclaim>	<inflation>
+<drill>	<maintain>	<teradyne>
+<possibility>	<create>	<greater opportunity>
+<jpmorgan>	<violate>	<user privacy>
+<justice department>	<confirm>	<case>
+<jackson>	<attend>	<wyome>
+<china>	<announce>	<tax_policy>
+<lawsuit>	<amend>	<affect>
+<europe>	<establish>	<work_union>
+<pivot>	<stay>	<stock>
+<car maker>	<determine>	<honda>
+<csx corporation>	<close>	<trading session>
+<production_rate>	<grow>	<fourth quarter>
+<unite state>	<raise>	<question>
+<firm>	<demonstrate>	<strong growth>
+<tech stock>	<prosper>	<cyclicality>
+<option_investor>	<worry>	<interest rate>
+<virus>	<trim>	<interest rate>
+<wynn resorts>	<boost>	<earnings>
+<motorola>	<expect>	<fiscal>
+<apple>	<encourage>	<department>
+<invest gold>	<rise>	<asia>
+<amazon>	<outperform>	<broader basis>
+<baidu>	<join>	<china>
+<huawei>	<research>	<5g_network>
+<equity>	<dispense>	<broad gain>
+<trump>	<question>	<iran>
+<central bank>	<trigger>	<recovery>
+<currency fluctuation>	<estimate>	<exchange impact>
+<volkswagen>	<pledge>	<invest>
+<biotech>	<lose>	<genfit>
+<america>	<apply>	<import>
+<carbon dioxide>	<burn>	<fossil fuel>
+<platform>	<estimate>	<earnings increase>
+<huawei>	<steal>	<trade secret>
+<shanghai>	<remain>	<economic_center>
+<profit>	<accelerate>	<growth>
+<people>	<criticize>	<tencent>
+<tencent>	<develop>	<mobile app>
+<device>	<remain>	<fitness tracker>
+<taiwan>	<plan>	<foxconn>
+<acquisition>	<conduct>	<ipo>
+<beyond meat>	<proceed>	<ipo>
+<scenario>	<become>	<drilling company>
+<market sale>	<increase>	<product sale>
+<business>	<influence>	<china>
+<london>	<reduce>	<exchange>
+<huawei>	<become>	<tech giant>
+<japan>	<tend>	<policy tightening>
+<recession>	<occur>	<crisis government>
+<ferrari>	<join>	<nop>
+<trump>	<boost>	<hope>
+<grow industry>	<average>	<industry metric>
+<japan>	<report>	<machinery>
+<switch>	<decline>	<manufacturing>
+<zack analyst>	<like>	<3m>
+<tech giant>	<agree>	<favor>
+<airline>	<start>	<cuba>
+<stock>	<begin>	<apple>
+<lyft>	<remain>	<negotiation>
+<dividend>	<increase>	<amazing>
+<economy>	<increase>	<unemployment rate>
+<walmart>	<punch>	<amazon>
+<supreme court>	<rule>	<case law>
+<exchange>	<result>	<pound fall>
+<silicon valley>	<drive>	<startup>
+<coinbase>	<possess>	<bitcoin>
+<dentsply sirona>	<hold>	<align technology>
+<tailwind>	<concern>	<price consensus>
+<ad customer>	<raise>	<yelp>
+<blackberry>	<risk>	<challenge>
+<google>	<post>	<profit loss>
+<federal employee>	<raise>	<suspicion hacker>
+<canada>	<result>	<return investment>
+<revenue>	<stay>	<flat>
+<positive economic>	<provide>	<tailwind>
+<capital market>	<like>	<interest>
+<increase product>	<hit>	<level>
+<boston>	<feed>	<ericsson>
+<company>	<hit>	<challenge>
+<business opportunity>	<bring>	<dollar>
+<greece>	<finalize>	<deal>
+<intel>	<earn>	<rating>
+<technological revolution>	<become>	<millennial>
+<market decision>	<keep>	<crash>
+<energy price>	<lead>	<loss earnings>
+<google>	<continue>	<shine>
+<digital age>	<bring>	<consumer>
+<invest stock>	<open>	<higher market>
